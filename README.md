@@ -5,7 +5,7 @@ I'm [Pabitra Mondal](https://linkedin.com/in/pabitra-mondal-/), an MCA student a
 I work on Data Science, Machine Learning, AI, and Web Development projects.  
 Like an anime protagonist, I believe every project is a new arc, every error is training, and every commit is one step toward becoming better.
 
----
+
 
 ## Current Arc ⚔️
 
@@ -14,7 +14,7 @@ Like an anime protagonist, I believe every project is a new arc, every error is 
 - 💻 Building Web Development and Data Science projects
 - 🚀 Leveling up my skills one project at a time
 
----
+
 
 ## Tools & Tech
 
@@ -27,7 +27,7 @@ Like an anime protagonist, I believe every project is a new arc, every error is 
 - Node.js
 - MongoDB
 
----
+
 
 ## A Bit About Me
 
@@ -36,7 +36,7 @@ Like an anime protagonist, I believe every project is a new arc, every error is 
 - 🏴‍☠️ Dream big, work hard, and keep moving forward
 - ⚡ Code, commit, push, repeat
 
----
+
 
 ## Connect With Me
 
